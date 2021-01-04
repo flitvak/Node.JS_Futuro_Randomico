@@ -1,0 +1,9 @@
+{
+    "nombre": "cerveza",
+    "precio": 10,
+    "marcas": [
+        "Quilmes",
+        "Stella Artois",
+        "Patagonia"
+    ]
+}
